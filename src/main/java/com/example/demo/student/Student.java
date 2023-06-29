@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 
 import java.time.LocalDate;
 import java.time.Period;
-
+// We will be creating table for students with these attributes.
 @Entity
 @Table
 public class Student {
